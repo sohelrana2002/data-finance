@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    background: #000300;
+    text-transform: capitalize;
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+    color: #fff;
+}
