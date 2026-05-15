@@ -6,7 +6,7 @@ A modern and responsive personal finance dashboard built with **React**, **Vite*
 
 ## 🚀 Live Demo
 
-🔗 https://sohelrana2002.github.io/data-finance/
+- **Website**: [View Live Website](https://sohelrana2002.github.io/data-finance/)
 
 ---
 
